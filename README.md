@@ -1,2 +1,2 @@
-My readme
-my name is fatme 
+get add .
+get puch
